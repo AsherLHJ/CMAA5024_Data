@@ -1,0 +1,218 @@
+﻿date,location,new_cases,total_cases,total_deaths,Continent
+2022/1/21,Afghanistan,213,159516,7390,Asia
+2022/1/21,Albania,2670,244182,3292,Europe
+2022/1/21,Algeria,1855,232325,6468,Africa
+2022/1/21,Andorra,824,33025,144,Europe
+2022/1/21,Angola,456,95676,1884,Africa
+2022/1/21,Anguilla,0,2187,7,North America
+2022/1/21,Antigua and Barbuda,74,5815,122,North America
+2022/1/21,Argentina,118171,7694506,118969,South America
+2022/1/21,Armenia,628,349957,8026,Asia
+2022/1/21,Aruba,221,32056,187,North America
+2022/1/21,Australia,43166,2129688,3043,Oceania
+2022/1/21,Austria,25418,1530919,13956,Europe
+2022/1/21,Azerbaijan,1068,630420,8581,Asia
+2022/1/21,Bahamas,222,31915,726,North America
+2022/1/21,Bahrain,3616,324304,1398,Asia
+2022/1/21,Bangladesh,11434,1664616,28192,Asia
+2022/1/21,Barbados,549,38171,274,North America
+2022/1/21,Belarus,1836,722939,5899,Europe
+2022/1/21,Belgium,54478,2697239,28780,Europe
+2022/1/21,Belize,794,45753,616,North America
+2022/1/21,Benin,,26309,163,Africa
+2022/1/21,Bermuda,,9766,112,North America
+2022/1/21,Bhutan,141,3458,3,Asia
+2022/1/21,Bolivia,9590,804677,20570,South America
+2022/1/21,Bonaire Sint Eustatius and Saba,234,6180,27,North America
+2022/1/21,Bosnia and Herzegovina,2574,329569,13984,Europe
+2022/1/21,Botswana,,243946,2544,Africa
+2022/1/21,Brazil,171321,23766499,622875,South America
+2022/1/21,British Virgin Islands,,5602,47,North America
+2022/1/21,Brunei,80,16066,98,Asia
+2022/1/21,Bulgaria,9874,870751,32604,Europe
+2022/1/21,Burkina Faso,0,20435,353,Africa
+2022/1/21,Burundi,0,36868,38,Africa
+2022/1/21,Cambodia,42,120956,3015,Asia
+2022/1/21,Cameroon,4447,114113,1867,Africa
+2022/1/21,Canada,15822,2877590,32217,North America
+2022/1/21,Cape Verde,287,55178,383,Africa
+2022/1/21,Cayman Islands,,12023,15,North America
+2022/1/21,Central African Republic,,13509,109,Africa
+2022/1/21,Chad,0,6889,185,Africa
+2022/1/21,Chile,17682,1934204,39474,South America
+2022/1/21,China,63,105547,4636,Asia
+2022/1/21,Colombia,31039,5686065,131824,South America
+2022/1/21,Comoros,9,7793,159,Africa
+2022/1/21,Congo,136,23380,371,Africa
+2022/1/21,Cook Islands,0,2,,Oceania
+2022/1/21,Costa Rica,6169,643496,7451,North America
+2022/1/21,Cote d'Ivoire,256,79814,771,Africa
+2022/1/21,Croatia,11114,859264,13335,Europe
+2022/1/21,Cuba,3392,1015203,8353,North America
+2022/1/21,Curacao,310,35617,211,North America
+2022/1/21,Cyprus,,235364,700,Europe
+2022/1/21,Czechia,26987,2705754,36997,Europe
+2022/1/21,Democratic Republic of Congo,85,84283,1278,Africa
+2022/1/21,Denmark,46831,1319695,3571,Europe
+2022/1/21,Djibouti,50,15250,189,Africa
+2022/1/21,Dominica,72,8421,49,North America
+2022/1/21,Dominican Republic,6363,530998,4279,North America
+2022/1/21,Ecuador,28538,658045,34279,South America
+2022/1/21,Egypt,1533,406926,22289,Africa
+2022/1/21,El Salvador,3435,127012,3847,North America
+2022/1/21,Equatorial Guinea,0,15558,179,Africa
+2022/1/21,Eritrea,32,9192,90,Africa
+2022/1/21,Estonia,4479,282977,1999,Europe
+2022/1/21,Eswatini,44,68047,1366,Africa
+2022/1/21,Ethiopia,650,461252,7226,Africa
+2022/1/21,Faeroe Islands,1259,13207,15,#N/A
+2022/1/21,Falkland Islands,1,86,,South America
+2022/1/21,Fiji,422,60931,768,Oceania
+2022/1/21,Finland,0,371135,1724,Europe
+2022/1/21,France,400851,16052999,128413,Europe
+2022/1/21,French Polynesia,195,47470,636,Oceania
+2022/1/21,Gabon,246,45909,300,Africa
+2022/1/21,Gambia,,11572,347,Africa
+2022/1/21,Georgia,8767,1030710,14631,Asia
+2022/1/21,Germany,133329,8635461,116668,Europe
+2022/1/21,Ghana,,154891,1357,Africa
+2022/1/21,Gibraltar,165,11557,100,Europe
+2022/1/21,Greece,20507,1762870,22476,Europe
+2022/1/21,Greenland,151,9407,4,North America
+2022/1/21,Grenada,,10960,205,North America
+2022/1/21,Guatemala,3189,666017,16245,North America
+2022/1/21,Guinea,,35719,410,Africa
+2022/1/21,Guinea-Bissau,62,7284,153,Africa
+2022/1/21,Guyana,892,55628,1122,South America
+2022/1/21,Haiti,133,28250,780,North America
+2022/1/21,Honduras,,387515,10468,North America
+2022/1/21,Hong Kong,11,12918,213,Asia
+2022/1/21,Hungary,15957,1401457,40822,Europe
+2022/1/21,Iceland,1458,54579,44,Europe
+2022/1/21,India,337704,38903731,488884,Asia
+2022/1/21,Indonesia,2604,4280248,144201,Asia
+2022/1/21,Iran,5276,6241843,132172,Asia
+2022/1/21,Iraq,7155,2144422,24277,Asia
+2022/1/21,Ireland,6597,1134548,6087,Europe
+2022/1/21,Isle of Man,119,20425,70,Europe
+2022/1/21,Israel,64071,2168009,8371,Asia
+2022/1/21,Italy,185600,9603856,142963,Europe
+2022/1/21,Jamaica,773,117717,2568,North America
+2022/1/21,Japan,49713,2071471,18476,Asia
+2022/1/21,Jordan,6309,1129995,13049,Asia
+2022/1/21,Kazakhstan,15169,1217538,18357,Asia
+2022/1/21,Kenya,459,319838,5528,Africa
+2022/1/21,Kiribati,0,2,,Oceania
+2022/1/21,Kosovo,2943,175283,2997,Europe
+2022/1/21,Kuwait,4809,488959,2483,Asia
+2022/1/21,Kyrgyzstan,788,193816,2843,Asia
+2022/1/21,Laos,676,128924,518,Asia
+2022/1/21,Latvia,5972,324999,4773,Europe
+2022/1/21,Lebanon,5628,853252,9460,Asia
+2022/1/21,Lesotho,,31899,690,Africa
+2022/1/21,Liberia,0,7208,288,Africa
+2022/1/21,Libya,1700,403144,5907,Africa
+2022/1/21,Liechtenstein,75,7746,73,Europe
+2022/1/21,Lithuania,6611,595685,7727,Europe
+2022/1/21,Luxembourg,2856,137570,943,Europe
+2022/1/21,Macao,0,79,,Asia
+2022/1/21,Madagascar,,55827,1169,Africa
+2022/1/21,Malawi,162,83565,2507,Africa
+2022/1/21,Malaysia,4046,2824973,31869,Asia
+2022/1/21,Maldives,1697,112628,269,Asia
+2022/1/21,Mali,71,29430,704,Africa
+2022/1/21,Malta,306,65311,521,Europe
+2022/1/21,Marshall Islands,0,7,,Oceania
+2022/1/21,Mauritania,280,56946,920,Africa
+2022/1/21,Mauritius,0,24903,240,Africa
+2022/1/21,Mexico,100279,4595589,302721,North America
+2022/1/21,Micronesia (country),0,1,,Oceania
+2022/1/21,Moldova,3971,404556,10501,Europe
+2022/1/21,Monaco,144,7304,45,Europe
+2022/1/21,Mongolia,5938,423495,2093,Asia
+2022/1/21,Montenegro,1212,210931,2505,Europe
+2022/1/21,Montserrat,1,152,1,North America
+2022/1/21,Morocco,8338,1086340,15082,Africa
+2022/1/21,Mozambique,543,221975,2149,Africa
+2022/1/21,Myanmar,83,533815,19308,Asia
+2022/1/21,Namibia,130,155027,3902,Africa
+2022/1/21,Nepal,8815,896584,11635,Asia
+2022/1/21,Netherlands,57561,3787274,21277,Europe
+2022/1/21,New Caledonia,341,15195,282,Oceania
+2022/1/21,New Zealand,78,15479,52,Oceania
+2022/1/21,Nicaragua,0,17604,219,North America
+2022/1/21,Niger,0,8503,295,Africa
+2022/1/21,Nigeria,359,251930,3124,Africa
+2022/1/21,North Macedonia,2071,252947,8177,Europe
+2022/1/21,Norway,24958,596613,1414,Europe
+2022/1/21,Oceania,44202,2305985,5385,#N/A
+2022/1/21,Oman,,318272,4125,Asia
+2022/1/21,Pakistan,6540,1360019,29077,Asia
+2022/1/21,Palau,0,208,,Oceania
+2022/1/21,Palestine,1240,480583,5042,Asia
+2022/1/21,Panama,11933,626890,7574,North America
+2022/1/21,Papua New Guinea,0,36446,596,Oceania
+2022/1/21,Paraguay,,516555,16887,South America
+2022/1/21,Peru,59470,2839519,203994,South America
+2022/1/21,Philippines,32605,3357083,53309,Asia
+2022/1/21,Poland,36664,4443217,103626,Europe
+2022/1/21,Portugal,58530,2118125,19496,Europe
+2022/1/21,Qatar,3204,317277,632,Asia
+2022/1/21,Romania,19649,1983670,59477,Europe
+2022/1/21,Russia,49127,10804032,318200,Europe
+2022/1/21,Rwanda,428,127655,1428,Africa
+2022/1/21,Saint Helena,0,4,,Africa
+2022/1/21,Saint Kitts and Nevis,49,5190,28,North America
+2022/1/21,Saint Lucia,424,18746,316,North America
+2022/1/21,Saint Pierre and Miquelon,32,630,,North America
+2022/1/21,Saint Vincent and the Grenadines,0,6615,90,North America
+2022/1/21,Samoa,0,13,,Oceania
+2022/1/21,San Marino,188,11466,107,Europe
+2022/1/21,Sao Tome and Principe,13,5798,68,Africa
+2022/1/21,Saudi Arabia,4884,643211,8916,Asia
+2022/1/21,Senegal,103,83855,1921,Africa
+2022/1/21,Serbia,16403,1518024,13211,Europe
+2022/1/21,Seychelles,,34367,143,Africa
+2022/1/21,Sierra Leone,5,7572,125,Africa
+2022/1/21,Singapore,10264,307813,846,Asia
+2022/1/21,Slovakia,8190,1447067,17577,Europe
+2022/1/21,Slovenia,9860,579480,5743,Europe
+2022/1/21,Solomon Islands,0,81,,Oceania
+2022/1/21,Somalia,0,24322,1335,Africa
+2022/1/21,South Africa,3519,3576379,93949,Africa
+2022/1/21,South Korea,7005,726274,6529,Asia
+2022/1/21,South Sudan,26,16653,137,Africa
+2022/1/21,Spain,141095,8975458,91741,Europe
+2022/1/21,Sri Lanka,840,600203,15272,Asia
+2022/1/21,Sudan,,53959,3393,Africa
+2022/1/21,Summer Olympics 2020,0,865,,#N/A
+2022/1/21,Suriname,715,69275,1231,South America
+2022/1/21,Sweden,42295,1784005,15674,Europe
+2022/1/21,Switzerland,38002,1879319,12579,Europe
+2022/1/21,Syria,40,50902,2962,Asia
+2022/1/21,Taiwan,68,18109,851,Asia
+2022/1/21,Tajikistan,0,17493,125,Asia
+2022/1/21,Tanzania,,32393,753,Africa
+2022/1/21,Thailand,8112,2369814,22019,Asia
+2022/1/21,Timor,0,19866,122,#N/A
+2022/1/21,Togo,,36176,266,Africa
+2022/1/21,Tonga,0,1,,Oceania
+2022/1/21,Trinidad and Tobago,1259,105264,3278,North America
+2022/1/21,Tunisia,9787,826838,25912,Africa
+2022/1/21,Turkey,72555,10808770,85600,Asia
+2022/1/21,Turks and Caicos Islands,82,5524,33,North America
+2022/1/21,Uganda,286,159807,3463,Africa
+2022/1/21,Ukraine,20542,4003280,105545,Europe
+2022/1/21,United Arab Emirates,2921,819866,2207,Asia
+2022/1/21,United Kingdom,96056,15747291,153616,Europe
+2022/1/21,United States,879980,70209840,864556,North America
+2022/1/21,Uruguay,12874,569037,6284,South America
+2022/1/21,Uzbekistan,1321,210899,1532,Asia
+2022/1/21,Vanuatu,0,7,1,Oceania
+2022/1/21,Vatican,0,29,,Europe
+2022/1/21,Venezuela,2318,465463,5399,South America
+2022/1/21,Vietnam,15935,2110737,36443,Asia
+2022/1/21,Wallis and Futuna,0,454,7,Oceania
+2022/1/21,Yemen,78,10585,1995,Asia
+2022/1/21,Zambia,616,300587,3885,Africa
+2022/1/21,Zimbabwe,409,227961,5288,Africa
